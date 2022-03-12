@@ -1,4 +1,4 @@
-# [기상과학원] Docker file and demo
+# How to run Docker file and Demo
 
 _All runs were done on Lab RI server2 (@20.98.84.235)._
 
